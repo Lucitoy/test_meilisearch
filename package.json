@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "meilisearch": "^0.25.0"
+    "meilisearch": "^0.25.0",
+    "typesense": "^1.2.2"
   }
 }
